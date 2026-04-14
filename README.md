@@ -1,3 +1,2 @@
-# Discord-Bot2026
-discord.py
+discord.py==2.4.0
 openai
